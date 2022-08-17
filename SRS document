@@ -1,0 +1,70 @@
+Structures of SRS
+1. INTRODUCTION
+1.1 Purpose
+This document  gives detailed functional and non-functional requirements for library login form. The purpose of this document is that the requirements mentioned 
+in it should be utilized by software developer to implement the system.
+
+1.2 Scope:
+“Library login form ” is an attempt to simulate the basic concepts of an library management system. The system enables to perform the following functions:
+Details of books
+Authors name
+library members
+
+1.3. Overview
+This system provides an easy solution to the customers to keep track reversion
+
+2. GENERAL DESCRIPTION
+The Library login form facilitates the students to enquiry about the books available,
+books return and update details,
+
+2.1 User Manual
+The system should provide Help option in which to operate the system should be explained.
+
+3. FUNCTIONAL REQUIRMENT 
+
+3.1. Description
+The identity of the student is verified and then Should enter to the library system. The system should display student photograph along with their name id proof.
+
+
+4. INTERFACE REQUIRMENTS
+4.1 GUI
+GUI 1: Main menu should provide options such as Login, forget password, Help.
+GUI 2: In Login  menu he able to login to main page of Library login page
+GUI 3: The display  of interface should be
+The photo can be clicked to edit the details
+
+4.2 Hardware Interface
+
+Hardware Interface 1: The system Should be embedded in the Laptop. 
+Hardware Interface 2: The Laptop Should use Wireless Ethernet card to send e-mails. These Laptop should be clients of department database server.
+
+4.3 Software Interface
+Software Interface 1: Library Management system
+Software Interface 2: E-mail message generator which generates standard message.
+Software Interface 3:Report generates
+
+5. PERFORMANCE REQUIREMENTS
+The system should work on any device any place and anytime
+
+6. DESIGN CONSTRAINTS
+ The system should be designed within 8 Months.
+
+7. OTHER NON-FUNCTIONAL ATTRIBUTES
+7.1 Security
+         The system should provide  password to login on to the system.   He/she should be able to see their personal details
+7.2 Reliability
+          Due to wireless connectivity , reliability cannot be guaranteed.
+7.3 Availability
+          The system should be available all browsers
+7.4 Reusability
+           The same system will be used for getting books again and again
+          
+8. OPERATIONAL SCENARIOS
+The Library login form database will contain customer name, mobile number, Gmail id etc...
+
+9.PREMLIMINARY SCHEDULE
+The system has been implemented within 9 Months
+
+
+
+
